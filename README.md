@@ -23,3 +23,7 @@ let g:ctrlp#shell_history#size = -3000
 
 - Better matching/smallest match first (typing `cp` should show `cp foo bar` first instead of `cat paw` ).
 - Instead of appending the selection below the cursor, the user should be able to provide a function that acts on the return value after ctrlp closed.
+
+# Licence
+
+MIT

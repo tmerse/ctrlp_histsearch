@@ -1,3 +1,5 @@
+" Author: Tobias Mersmann.
+
 if exists('g:loaded_ctrlp_shell_history') && g:loaded_ctrlp_shell_history
   finish
 endif
