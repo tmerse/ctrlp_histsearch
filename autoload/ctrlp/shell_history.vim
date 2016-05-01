@@ -43,7 +43,7 @@ let s:shell_history_var = {
 \  'accept': 'ctrlp#shell_history#accept',
 \  'lname':  'myshell_history',
 \  'sname':  'shell_history',
-\  'type':   'custom',
+\  'type':   'line',
 \  'sort':   1,
 \  'nolim':  1,
 \}
